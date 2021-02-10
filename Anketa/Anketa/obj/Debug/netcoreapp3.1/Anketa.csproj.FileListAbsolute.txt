@@ -1,0 +1,13 @@
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\bin\Debug\netcoreapp3.1\Anketa.exe
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\bin\Debug\netcoreapp3.1\Anketa.deps.json
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\bin\Debug\netcoreapp3.1\Anketa.runtimeconfig.json
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\bin\Debug\netcoreapp3.1\Anketa.runtimeconfig.dev.json
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\bin\Debug\netcoreapp3.1\Anketa.dll
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\bin\Debug\netcoreapp3.1\Anketa.pdb
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\obj\Debug\netcoreapp3.1\Anketa.csprojAssemblyReference.cache
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\obj\Debug\netcoreapp3.1\Anketa.AssemblyInfoInputs.cache
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\obj\Debug\netcoreapp3.1\Anketa.AssemblyInfo.cs
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\obj\Debug\netcoreapp3.1\Anketa.csproj.CoreCompileInputs.cache
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\obj\Debug\netcoreapp3.1\Anketa.dll
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\obj\Debug\netcoreapp3.1\Anketa.pdb
+C:\Users\Юля Пирс\source\repos\SFMod3\Anketa\Anketa\obj\Debug\netcoreapp3.1\Anketa.genruntimeconfig.cache
